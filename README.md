@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Meus cadernos
 
-[![Caderno Flutter](https://cdn.iconscout.com/icon/free/png-32/flutter-2038877-1720090.png)](https://github.com/rsferreirawork/caderno-flutter)
+[![Caderno Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/rsferreirawork/caderno-flutter)
