@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rsferreirawork&show_icons=true&layout=compact&hide_title=true&theme=merko)](https://github.com/rsferreirawork/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsferreirawork&hide_title=true&layout=compact&theme=merko)](https://github.com/rsferreirawork)
 
-
-### Meus cadernos
+## Meus cadernos
 
 [![Caderno Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/rsferreirawork/caderno-flutter)
 [![Caderno Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/rsferreirawork/caderno-java)
-
-
+[![Caderno NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/rsferreirawork/caderno-nodejs.git)
