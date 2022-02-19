@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsferreirawork&hide_title=true&layout=compact&theme=merko)](https://github.com/rsferreirawork)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsferreirawork&hide_title=true&layout=compact&theme=yeblu&count_private=true&show_icons=true)](https://github.com/rsferreirawork)
 
 ## Meus cadernos
 
